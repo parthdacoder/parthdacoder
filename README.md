@@ -11,7 +11,7 @@
  ```python
   class WhoAmI:
     user = 'Parth Madaan'
-    current_edu = "BTech CSE @NIIT University"
+    currently_working@ = "Luminous Power Technology"
     currently_learning = "Data Science"
     fun_fact = "I used to think correlation implied causation. Then I took a Statistics class. Now, I don't."
 	hobbies = [
